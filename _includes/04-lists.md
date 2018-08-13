@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+- Live
+- Laugh
+- Love
+  - Coffee
+  - Cuddles
+  - Cheese Pizza
